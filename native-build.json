@@ -1,0 +1,49 @@
+{
+  "product": "Multisim 10.0.1.0 x86",
+  "sha256": {
+    "Prefs.dll": "d076cde603f2096ce488bb5eb42caa57e99a3f4b591c829c9035574e558a0a47",
+    "multisim.exe": "4e0dd3fe227e22f48db7392205ec52dff66454ce0c4e9a8831455b9734c4b52a",
+    "SCH_CAP.dll": "addb1c5863ad597a0773a35bc2f05d52a30d2e09dbc62c06337c3d8ef172a155",
+    "Od101dll.dll": "6ff5cbad2007b6234af0031a507996083b7bc0cb94a0fdb93c7075df24d1864f",
+    "Circexp.dll": "28b38bc78493f3fcc973807449b44306dd5059710361196b0e939da3ed936a5c",
+    "DrwEngine.dll": "7a5258dcf7ddb8358d5716f1125c5233354ff71689107b2843d6ab963fe699a1",
+    "PlugInManagement.dll": "c3fdf083ae0c7e764ebdc30e8467980e993172ac9d07e6e2f699c013e9b75f94",
+    "library.dll": "92a862f055a0ba48a8498719170121b4346b56c8b427cf238950274b512b8e44",
+    "TierMatrix.dll": "de613983ea734d56daea612415670931278b04b88ded782481454e761a03f1dd",
+    "database.dll": "18f7ee52ad09b6e6306062283e7a10c74692f43e426927204252f1c4ed35f8dc",
+    "CompEdit.dll": "ecc24da4e7b279bfa121dc7e4e16012aaf30b033f0be707f1627eba7c8428d41",
+    "Setattr.dll": "4a4ab2871cb09b9ebb57d05224284e2c17bbd0088b686c018772a411543c3530",
+    "Prp.dll": "38828cb310df07ad802663e2520f9887e77f93b9a18863d1c6fc08d9bbd3c453",
+    "SymConv.dll": "adb7ce5b2c6f1dfbda6e852dc7c7916e5a27bbc80c587136ba97c51002b43007",
+    "MSInterface.dll": "c6d244e966704634f4893529ee71a9d01a7ca6c8b17b26e84319842036f74194",
+    "Probe.DLL": "eec7800833db2aade9bdd0e14aa4c7f65daaf7e9088f0c3d182170219518f1e6",
+    "SimulationServer.dll": "e67e5e1fa4d4163c3652a1baccb6c6bc6b3628ee155da400deefdbb329ceff33",
+    "SimulationInterface.dll": "2ea77058e5861360696376ed579f5c7075f7e8e96422a617b581dac3dfa97288",
+    "Instruments.dll": "c1b6f9eac31767af5b2a232b0b4dfa368288a187ab8d9cc2db0c8ec23ba4be8f",
+    "geninstr.dll": "97af3ede45bf31412911430f3886af39211e90e236a644f634bc1822ab05f66d",
+    "instagcy.dll": "2dc33ef30ef4118ba05aa4740f4f304a19d17e69bd831bbd3eb7eaa56d0add17",
+    "SCOPE.DLL": "161525f06ba1cc18034b135df9d73142c60e3c38c894a1c65b5f4167480219ca",
+    "Sharutil.dll": "de19465c0b04f9c712f02864fd232bc0451e7ca22e41cbc28c39ad109ab3fb01",
+    "mulmeter.dll": "3245023701fa2c88339946b4d129a5954dbd94df68c750942d6188e0fbb6dcb3",
+    "FGEN.DLL": "cb033f2b906233ac212ebfe2b64b6c0e193000df5a405501902b81ed2a43e23f"
+  },
+  "runtime_sha256": {
+    "C:\\Windows\\SysWOW64\\mfc71u.dll": "bcce86190aec3372a0f467fe18a8183cdf73142ab846ee62c27e12d2a4bc0cf5",
+    "C:\\Windows\\SysWOW64\\msvcr71.dll": "dca0e5faf6c94b6adff4d90d40795d5a91ba3a3059ea408e992a0f039a494d46",
+    "C:\\Windows\\SysWOW64\\msvcp71.dll": "71d3cc0edd1866c77de6444a260512f54c40a8413f673abf79fa24be27495c23"
+  },
+  "private_entrypoints": {
+    "SCH_CAP.dll+0x174290": "cdecl int(CIITSymbolComp*,CIITCircuitPrefs*,bool,CTreeInstance*,void**,int*): native parameter init and display refresh",
+    "SCH_CAP.dll+0x1731e0": "cdecl void(CiComponent*): native ground node initialization",
+    "SCH_CAP.dll+0x18dc50": "thiscall CiProbeComp*(CIITProbeComponent*): native lazy backend creation",
+    "SCH_CAP.dll+0x18db70": "thiscall void(CIITProbeComponent*,int): native static probe direction setter",
+    "SCH_CAP.dll+0x17bbb0": "cdecl int(const CPoint*,const CPoint*): native segment direction",
+    "SCH_CAP.dll+0x18de70": "thiscall int(CIITProbeComponent*,CIITLinkComp**,int*,CIITLinkComp**,int*): native positive/negative link attachment",
+    "SCH_CAP.dll+0x16d7d0": "cdecl bool(CIITSymbolComp*): register native instrument and event sink",
+    "SCH_CAP.dll+0x16f4a0": "cdecl CiModel*(CiCircuit*,CIITSymbolComp*,null,null,null,null,null): construct instrument electrical model",
+    "SCH_CAP.dll+0xb76c0": "cdecl CIITBusCompV8*(): native bus backbone factory",
+    "SCH_CAP.dll+0xb0740": "thiscall void(CIITBusCompV8*): initialize bus end connectors",
+    "SCH_CAP.dll+0xa10b0": "thiscall label*(label*,const wchar_t*): construct bus name label",
+    "SCH_CAP.dll+0x3269dc": "native CODMultiLine-derived bus graphic vtable"
+  }
+}

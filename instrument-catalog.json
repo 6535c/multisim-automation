@@ -1,0 +1,1273 @@
+[
+  {
+    "module": "bode",
+    "filename": "bode.dll",
+    "sha256": "ecef83f9f97d3ff465fa34b27521ecfe3056e2edbe79001688412a5f3e47a2f5",
+    "matrix_names": [
+      "BodePlotterManager_Snapin"
+    ],
+    "symbols": [
+      {
+        "resource": 2702,
+        "language": 4105,
+        "sha256": "41d20cd045c70b7dd1522537b909b9c1ac2e9225cca9dc3263e9f79577d2faa2",
+        "pins": [
+          {
+            "name": "1",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "2",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "3",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "4",
+            "number": "##",
+            "bus": false
+          }
+        ]
+      }
+    ],
+    "factory_calls": [
+      {
+        "file_offset": 38664,
+        "arguments": [
+          {
+            "resource": 2702,
+            "feature": 2097152,
+            "server_string_va": 268530040
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "module": "distor",
+    "filename": "distor.DLL",
+    "sha256": "51baaa464d4ccca6cb4344bef0eed1d26a73c8803fd61742ac623295df8b3fdc",
+    "matrix_names": [
+      "Distortionmanager_snapin"
+    ],
+    "symbols": [
+      {
+        "resource": 3,
+        "language": 4105,
+        "sha256": "eabd6c66bd9c189a49df7e71235079e7b066e0520a08322fc74dae504e39080e",
+        "pins": [
+          {
+            "name": "1",
+            "number": "##",
+            "bus": false
+          }
+        ]
+      }
+    ],
+    "factory_calls": [
+      {
+        "file_offset": 30533,
+        "arguments": [
+          {
+            "resource": 3,
+            "feature": 1769472,
+            "server_string_va": 268521500
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "module": "fgen",
+    "filename": "FGEN.DLL",
+    "sha256": "cb033f2b906233ac212ebfe2b64b6c0e193000df5a405501902b81ed2a43e23f",
+    "matrix_names": [
+      "FunctionGeneratorManager_Snapin"
+    ],
+    "symbols": [
+      {
+        "resource": 5,
+        "language": 4105,
+        "sha256": "b2a57597d221e3f4d52d2d5e4cda67ee8b7f9f0d87d7ea726ab5957cbc2c8b41",
+        "pins": [
+          {
+            "name": "1",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "2",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "3",
+            "number": "##",
+            "bus": false
+          }
+        ]
+      }
+    ],
+    "factory_calls": [
+      {
+        "file_offset": 26549,
+        "arguments": [
+          {
+            "resource": 5,
+            "feature": 1966080,
+            "server_string_va": 268513184
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "module": "fgen_at",
+    "filename": "FGEN_AT.DLL",
+    "sha256": "3b4598daa25cf504393c06d5c06d6858fdefab0d4afe6463fa8cf10d33ce2032",
+    "matrix_names": [
+      "FunctionGeneratorManager_AT_snapin"
+    ],
+    "symbols": [
+      {
+        "resource": 27,
+        "language": 4105,
+        "sha256": "13f3dab0731101a885cf66ad2f702b9f674e57b8c4d4bc637f45a39a0fec146f",
+        "pins": [
+          {
+            "name": "1",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "2",
+            "number": "##",
+            "bus": false
+          }
+        ]
+      }
+    ],
+    "factory_calls": [
+      {
+        "file_offset": 89861,
+        "arguments": [
+          {
+            "resource": 27,
+            "feature": 1900544,
+            "server_string_va": 268619676
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "module": "freqcounter",
+    "filename": "FreqCounter.DLL",
+    "sha256": "b0078335588408b84d23481cfcd0ac1ca0b6932254461b89be5ed0fe9800c000",
+    "matrix_names": [
+      "FreqCounterManager_Snapin"
+    ],
+    "symbols": [
+      {
+        "resource": 2,
+        "language": 4105,
+        "sha256": "d66a678b44210e079569bb1d8a15b9e4bd59a99392990bd839c4d5284d7408ac",
+        "pins": [
+          {
+            "name": "1",
+            "number": "##",
+            "bus": false
+          }
+        ]
+      }
+    ],
+    "factory_calls": [
+      {
+        "file_offset": 35077,
+        "arguments": [
+          {
+            "resource": 2,
+            "feature": 1835008,
+            "server_string_va": 268521196
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "module": "imeter",
+    "filename": "IMeter.DLL",
+    "sha256": "16810d8cfff124da400f13c1c70217a180d6d5d622e45b4773e2c2c2b3e95932",
+    "matrix_names": [
+      "IMetermanager_snapin"
+    ],
+    "symbols": [
+      {
+        "resource": 1,
+        "language": 1033,
+        "sha256": "2043574d15594b0fd6827897e64f587fa6dea89c45948be6764086dfe9d3714e",
+        "pins": [
+          {
+            "name": "1",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "2",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "3",
+            "number": "##",
+            "bus": false
+          }
+        ]
+      }
+    ],
+    "factory_calls": [
+      {
+        "file_offset": 19125,
+        "arguments": [
+          {
+            "resource": 1,
+            "feature": 4128768,
+            "server_string_va": 268495740
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "module": "iv_analyzer",
+    "filename": "IV_Analyzer.dll",
+    "sha256": "ab08f42ae165b8dc23a5fa414302d77c4d2b6e867721a88e908b38ab7c9f0b16",
+    "matrix_names": [
+      "IV_AnalyzerManager_Snapin"
+    ],
+    "symbols": [
+      {
+        "resource": 9,
+        "language": 4105,
+        "sha256": "6346ba7c74fb92b4a7b19fd39fd91c0b4c789d00ce8ed6158d4f208ef855105b",
+        "pins": [
+          {
+            "name": "1",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "2",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "3",
+            "number": "##",
+            "bus": false
+          }
+        ]
+      }
+    ],
+    "factory_calls": [
+      {
+        "file_offset": 35573,
+        "arguments": [
+          {
+            "resource": 9,
+            "feature": 2228224,
+            "server_string_va": 268539296
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "module": "logconv",
+    "filename": "logconv.dll",
+    "sha256": "afc2000476ce7572cf33886ad9abe119776b27b11e72650b4aa1acc8164edeeb",
+    "matrix_names": [],
+    "symbols": [
+      {
+        "resource": 8,
+        "language": 4105,
+        "sha256": "961dda8ef9d64a37668437720ebd2afe0096170d148b1fb031b40c336e65caf5",
+        "pins": [
+          {
+            "name": "1",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "2",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "3",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "4",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "5",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "6",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "7",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "8",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "9",
+            "number": "##",
+            "bus": false
+          }
+        ]
+      }
+    ],
+    "factory_calls": [
+      {
+        "file_offset": 33653,
+        "arguments": [
+          {
+            "resource": 8,
+            "feature": 3145728,
+            "server_string_va": 268559428
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "module": "logican",
+    "filename": "logican.dll",
+    "sha256": "9b83c03e0c67547c1dc2a55e2622c75a0282bbcdf6e9b99912e577786f209027",
+    "matrix_names": [
+      "LogicAnalyzerManager_Snapin"
+    ],
+    "symbols": [
+      {
+        "resource": 3,
+        "language": 1033,
+        "sha256": "b1183580dc40e2cdb46d085ed1143741e047880bfcdc6f73ba89b5bf80c4fa5c",
+        "pins": [
+          {
+            "name": "1",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "2",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "3",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "4",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "5",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "6",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "7",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "8",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "9",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "10",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "11",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "12",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "13",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "14",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "15",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "16",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "17",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "18",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "19",
+            "number": "##",
+            "bus": false
+          }
+        ]
+      }
+    ],
+    "factory_calls": [
+      {
+        "file_offset": 49493,
+        "arguments": [
+          {
+            "resource": 3,
+            "feature": 2293760,
+            "server_string_va": 268552468
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "module": "lvinstrument",
+    "filename": "LVInstrument.DLL",
+    "sha256": "eeea29521ec4c4ae1bbc5eed85a8458e0a80117f05e0300bdc10a11b3ae7a9d5",
+    "matrix_names": [],
+    "symbols": [
+      {
+        "resource": 1,
+        "language": 4105,
+        "sha256": "97dd06141e5f8c745a27aa2b3b9e78f24c99ebf8e28e2475699c6e890e123d7d",
+        "pins": []
+      }
+    ],
+    "factory_calls": [
+      {
+        "file_offset": 47915,
+        "arguments": []
+      }
+    ]
+  },
+  {
+    "module": "mulmeter",
+    "filename": "mulmeter.DLL",
+    "sha256": "3245023701fa2c88339946b4d129a5954dbd94df68c750942d6188e0fbb6dcb3",
+    "matrix_names": [
+      "MultimeterManager_Snapin"
+    ],
+    "symbols": [
+      {
+        "resource": 5,
+        "language": 4105,
+        "sha256": "ffc1e18757623875dd4e49658b394ade537a868f09579fc0d44963ac3d1ea9ca",
+        "pins": [
+          {
+            "name": "2",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "1",
+            "number": "##",
+            "bus": false
+          }
+        ]
+      }
+    ],
+    "factory_calls": [
+      {
+        "file_offset": 33109,
+        "arguments": [
+          {
+            "resource": 5,
+            "feature": 2424832,
+            "server_string_va": 268521828
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "module": "mulmeter_at",
+    "filename": "mulmeter_AT.DLL",
+    "sha256": "da0413925bc757f9b00c0240157b41f9946bf5f356137382afdbf4959950a2dd",
+    "matrix_names": [
+      "Multimeter_AT_Manager_Snapin"
+    ],
+    "symbols": [
+      {
+        "resource": 3,
+        "language": 4105,
+        "sha256": "16de8a22bc986a9901f26deacc4ab1238114af491f70d1cf0b836e8b3df7c519",
+        "pins": [
+          {
+            "name": "3",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "5",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "2",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "4",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "1",
+            "number": "##",
+            "bus": false
+          }
+        ]
+      }
+    ],
+    "factory_calls": [
+      {
+        "file_offset": 66853,
+        "arguments": [
+          {
+            "resource": 3,
+            "feature": 2359296,
+            "server_string_va": 268568668
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "module": "netan",
+    "filename": "netan.dll",
+    "sha256": "5ef7d5e591a71c887b02f27c3ee70c03080bfa079d057b71074d5eec4e8a788e",
+    "matrix_names": [
+      "NetworkAnalyzerManager_Snapin"
+    ],
+    "symbols": [
+      {
+        "resource": 3,
+        "language": 4105,
+        "sha256": "92e1e2d6202c87c49c4dc3aa4d33b8a58eceabc1d0fc25ae2a553f809702f05f",
+        "pins": [
+          {
+            "name": "1",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "2",
+            "number": "##",
+            "bus": false
+          }
+        ]
+      }
+    ],
+    "factory_calls": [
+      {
+        "file_offset": 184693,
+        "arguments": [
+          {
+            "resource": 3,
+            "feature": 2490368,
+            "server_string_va": 268800252
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "module": "probe",
+    "filename": "Probe.DLL",
+    "sha256": "eec7800833db2aade9bdd0e14aa4c7f65daaf7e9088f0c3d182170219518f1e6",
+    "matrix_names": [
+      "Probemanager_snapin"
+    ],
+    "symbols": [
+      {
+        "resource": 1,
+        "language": 1033,
+        "sha256": "a216b93b124e50806b6fbc950df7cca635e418c67e765b11bfbc7b9ba87191e8",
+        "pins": [
+          {
+            "name": "1",
+            "number": "##",
+            "bus": false
+          }
+        ]
+      }
+    ],
+    "factory_calls": [
+      {
+        "file_offset": 65309,
+        "arguments": []
+      },
+      {
+        "file_offset": 65377,
+        "arguments": []
+      }
+    ]
+  },
+  {
+    "module": "scope",
+    "filename": "SCOPE.DLL",
+    "sha256": "161525f06ba1cc18034b135df9d73142c60e3c38c894a1c65b5f4167480219ca",
+    "matrix_names": [
+      "OScilloscopeManager_Snapin"
+    ],
+    "symbols": [
+      {
+        "resource": 6,
+        "language": 4105,
+        "sha256": "f0101806bb7c35bd4d92e128045a4e364332384f117d466af7095e9abd4d16f5",
+        "pins": [
+          {
+            "name": "1",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "2",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "4",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "3",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "5",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "6",
+            "number": "##",
+            "bus": false
+          }
+        ]
+      }
+    ],
+    "factory_calls": [
+      {
+        "file_offset": 65173,
+        "arguments": [
+          {
+            "resource": 6,
+            "feature": 3080192,
+            "server_string_va": 268563604
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "module": "scope_4ch",
+    "filename": "SCOPE_4ch.DLL",
+    "sha256": "7f5e3807518383f134f4473ec16bc3beb6d8725b40646c37347c48efaf1338d3",
+    "matrix_names": [
+      "OScilloscopeManager_4CH_Snapin"
+    ],
+    "symbols": [
+      {
+        "resource": 7,
+        "language": 4105,
+        "sha256": "a7d9b01ce31b897830d22be9e3633f65edc420ca8f9355e28aa232d9f180d20d",
+        "pins": [
+          {
+            "name": "1",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "2",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "3",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "4",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "6",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "5",
+            "number": "##",
+            "bus": false
+          }
+        ]
+      }
+    ],
+    "factory_calls": [
+      {
+        "file_offset": 60709,
+        "arguments": [
+          {
+            "resource": 7,
+            "feature": 2555904,
+            "server_string_va": 268559508
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "module": "scope_at",
+    "filename": "SCOPE_AT.DLL",
+    "sha256": "5b0608ff5c89431180053d7898425cb4e6b2ec90ef39c497dab8502aa120d821",
+    "matrix_names": [
+      "OScilloscopeManager_AT_Snapin"
+    ],
+    "symbols": [
+      {
+        "resource": 58,
+        "language": 4105,
+        "sha256": "265f2ddf1919dcbe35a44aca26d9d793a80e5f5435e25132fd6f238819fca36e",
+        "pins": [
+          {
+            "name": "1",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "2",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "3",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "4",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "5",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "6",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "7",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "8",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "9",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "10",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "11",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "12",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "13",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "14",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "15",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "16",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "17",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "18",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "19",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "20",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "21",
+            "number": "##",
+            "bus": false
+          }
+        ]
+      }
+    ],
+    "factory_calls": [
+      {
+        "file_offset": 46277,
+        "arguments": [
+          {
+            "resource": 58,
+            "feature": 2621440,
+            "server_string_va": 268705260
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "module": "scope_tk",
+    "filename": "SCOPE_tk.DLL",
+    "sha256": "ab3745f7304877b0d6c4456aead7c2b0b8775325d0712e71414e78a8682bcc02",
+    "matrix_names": [
+      "OScilloscopeManager_TK_Snapin"
+    ],
+    "symbols": [
+      {
+        "resource": 27,
+        "language": 4105,
+        "sha256": "0e0649c100ee5a285ff8e4f7064dbda50eb3d634ef08c041a724f1f72de3afb9",
+        "pins": [
+          {
+            "name": "1",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "2",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "3",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "4",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "5",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "6",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "7",
+            "number": "##",
+            "bus": false
+          }
+        ]
+      }
+    ],
+    "factory_calls": [
+      {
+        "file_offset": 49701,
+        "arguments": [
+          {
+            "resource": 27,
+            "feature": 3407872,
+            "server_string_va": 268704780
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "module": "spec_an",
+    "filename": "spec_an.dll",
+    "sha256": "a879bd186de5d664c79640d3bf50e4f6cebe1b38020a4bdfaa8bd6d0ccd84f03",
+    "matrix_names": [
+      "SpectralAnalyzerManager_Snapin"
+    ],
+    "symbols": [
+      {
+        "resource": 5,
+        "language": 4105,
+        "sha256": "2d99524043c2cf6d39e121044ea9cce06ac30a52348749daf5be71ff1dfa065a",
+        "pins": [
+          {
+            "name": "1",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "2",
+            "number": "##",
+            "bus": false
+          }
+        ]
+      }
+    ],
+    "factory_calls": [
+      {
+        "file_offset": 41989,
+        "arguments": [
+          {
+            "resource": 5,
+            "feature": 2818048,
+            "server_string_va": 268538884
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "module": "wattmetr",
+    "filename": "WATTMETR.DLL",
+    "sha256": "ed84409e7bcfa2ca83f5fb1b06555e696215cdd33dd673fe426bed8762991607",
+    "matrix_names": [
+      "WattMeterManager_Snapin"
+    ],
+    "symbols": [
+      {
+        "resource": 2710,
+        "language": 4105,
+        "sha256": "074889861033858f0209a405af78c6d5abe2abae1b013f3dec212f287358fd17",
+        "pins": [
+          {
+            "name": "1",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "2",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "3",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "4",
+            "number": "##",
+            "bus": false
+          }
+        ]
+      }
+    ],
+    "factory_calls": [
+      {
+        "file_offset": 24088,
+        "arguments": [
+          {
+            "resource": 2710,
+            "feature": 2949120,
+            "server_string_va": 268508220
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "module": "wgen",
+    "filename": "WGEN.DLL",
+    "sha256": "b7aa755040948eeabe476717b808f3796437ae28e4be5df41d8198f788d07716",
+    "matrix_names": [
+      "WordGeneratorManager_Snapin"
+    ],
+    "symbols": [
+      {
+        "resource": 2713,
+        "language": 4105,
+        "sha256": "965455d7e26a249ebf6963458336906bc38933c4267b9501cb0d7f99d27ee869",
+        "pins": [
+          {
+            "name": "1",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "2",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "3",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "4",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "5",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "6",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "7",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "8",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "9",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "10",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "11",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "12",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "13",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "14",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "15",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "16",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "17",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "18",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "19",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "20",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "21",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "22",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "23",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "24",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "25",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "26",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "27",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "28",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "29",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "30",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "31",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "32",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "33",
+            "number": "##",
+            "bus": false
+          },
+          {
+            "name": "34",
+            "number": "##",
+            "bus": false
+          }
+        ]
+      }
+    ],
+    "factory_calls": [
+      {
+        "file_offset": 46584,
+        "arguments": [
+          {
+            "resource": 2713,
+            "feature": 3014656,
+            "server_string_va": 268552092
+          }
+        ]
+      }
+    ]
+  }
+]
